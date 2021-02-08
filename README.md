@@ -1,4 +1,3 @@
-
 <html lang="ru">
 <head>
 <meta charset="utf-8" />
@@ -53,17 +52,12 @@ style="width:80%">
 <p>
 <a href="">
 https://imgur.com/a/hRt53t3
-</p>
 <p>
 <a href="">
 https://ibb.co/zR4f711
-</p>
 <p>
 <a href="">
 https://ibb.co/BNZ3FDf
-</p>
-</td>
-</tr>
 <tr>
 <td
 bgcolor="#e6e6fa"
