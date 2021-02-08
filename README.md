@@ -2,7 +2,6 @@
 <html lang="ru">
 <head>
 <meta charset="utf-8" />
-<title>Gif-JPEG-PNG-Project</title>
 </head>
 <body>
 <img src="priroda_gory_nebo_ozero_oblaka_81150_1920x1080.jpg">
@@ -86,7 +85,7 @@ style="width:80%">
 <!--Ссылка на страницу сайта-->
 <a href="">
 <!--Картинка маркера перед названием страницы-->
-<img src="http://trueimages.ru/img/00/06/f4fffdb5.png">
+https://imgur.com/a/hRt53t3
 <!--Название страницы
 style="margin-left:5px;" - отступ названия от маркера-->
 <span style="margin-left:5px;">Страница</span></a>
