@@ -5,6 +5,8 @@
 </head>
 <body>
 <img src="priroda_gory_nebo_ozero_oblaka_81150_1920x1080.jpg">
+<img src="background-2390367_960_720.png">
+<img src="c97fe4d68fbaa154f8d7f4fa596b2474.gif">
 <!--Создаём таблицу контейнер, которой задаём следующее
 оформление:
 border="1"
@@ -88,18 +90,18 @@ style="width:80%">
 https://imgur.com/a/hRt53t3
 <!--Название страницы
 style="margin-left:5px;" - отступ названия от маркера-->
-<span style="margin-left:5px;">Страница</span></a>
+<span style="margin-left:5px;">JPG</span></a>
 <!--Закрываем абзац-->
 </p>
 <p>
 <a href="">
-<img src="http://trueimages.ru/img/31/ab/4dcb087c2ae4305edcd15171696.jpg">
-<span style="margin-left:5px;">Страница 1</span;></a>
+https://ibb.co/zR4f711
+<span style="margin-left:5px;">PNG</span;></a>
 </p>
 <p>
 <a href="">
-<img src="http://trueimages.ru/img/31/ab/4dcb087c2ae4305edcd15171696.jpg">
-<span style="margin-left:5px;">Страница 2</span></a>
+https://ibb.co/BNZ3FDf
+<span style="margin-left:5px;">GIF</span></a>
 </p>
 <!--Закрываем строку Меню-->
 </td>
