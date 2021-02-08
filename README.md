@@ -39,14 +39,11 @@ border="1"
 bgcolor="#e6e6fa"
 cellpadding="10"
 style="width:100%; border-radius:5px;">
-<!--Создаём строку-->
 <tr>
-<!--Создаём ячейку
 <td
 rowspan="2"
 style="width:80%">
 <h2>Страница</h2>
-<!--Начинаем абзац с красной строки-->
 <p style="text-indent:20px">
 <td bgcolor="#e6e6fa">
 <h3>Ссылки</h3>
@@ -71,7 +68,6 @@ https://ibb.co/BNZ3FDf
 <td
 bgcolor="#e6e6fa"
 align="center">
-<h3>Общая информация</h3>
 </td>
 </tr>
 </table>
