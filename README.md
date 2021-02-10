@@ -34,7 +34,7 @@ style="width:100%; border-radius:5px;">
 <td
 rowspan="2"
 style="width:80%">
-<h2>Страница</h2>
+<h2>Файлы</h2>
 <p style="text-indent:20px">
 <td bgcolor="#e6e6fa">
 <h3>Ссылки</h3>
