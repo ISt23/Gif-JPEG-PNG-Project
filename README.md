@@ -6,8 +6,6 @@
 <img src="priroda_gory_nebo_ozero_oblaka_81150_1920x1080.jpg">
 <img src="background-2390367_960_720.png">
 <img src="c97fe4d68fbaa154f8d7f4fa596b2474.gif">
-<!--Создаём таблицу контейнер, которой задаём следующее
-оформление:
 border="1"
 align="center"
 rules="rows"
@@ -17,9 +15,7 @@ border="1"
 align="center"
 rules="rows"
 style="width:60%;">
-<!--Создаём строку-->
 <tr>
-<!--Создаём ячейку строки-->
 <td>
 <table
 border="1"
@@ -38,14 +34,11 @@ border="1"
 bgcolor="#e6e6fa"
 cellpadding="10"
 style="width:100%; border-radius:5px;">
-<!--Создаём строку-->
 <tr>
-<!--Создаём ячейку
 <td
 rowspan="2"
 style="width:80%">
 <h2>Страница</h2>
-<!--Начинаем абзац с красной строки-->
 <p style="text-indent:20px">
 <td bgcolor="#e6e6fa">
 <h3>Ссылки</h3>
