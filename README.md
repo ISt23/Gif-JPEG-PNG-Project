@@ -6,10 +6,6 @@
 <img src="priroda_gory_nebo_ozero_oblaka_81150_1920x1080.jpg">
 <img src="background-2390367_960_720.png">
 <img src="c97fe4d68fbaa154f8d7f4fa596b2474.gif">
-border="1"
-align="center"
-rules="rows"
-style="width:60%;" 
 <table
 border="1"
 align="center"
